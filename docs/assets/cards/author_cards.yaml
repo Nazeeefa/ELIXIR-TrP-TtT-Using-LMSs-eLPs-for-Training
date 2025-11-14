@@ -1,17 +1,17 @@
-- title: Zeus
+- title: Brane Leskošek
   content: |
-    [:custom-orcid:](https://orcid.org/) [:simple-github:](https://github.com/) [:simple-linkedin:](https://linkedin.com/)<br>
-    Lorem ipsum dolor sit amet.
-  image: ./assets/images/cards/001-zeus.png
+    [:custom-orcid:](https://orcid.org/0000-0001-5202-2349) [:simple-linkedin:](https://www.linkedin.com/in/brane-lesko%C5%A1ek-4a4479a/)<br>
+    ELIXIR Slovenia
+  image: ./assets/images/cards/brane_leskosek.jpg
 
-- title: Athena
+- title: Nazeefa Fatima
   content: |
-    [:custom-orcid:](https://orcid.org/) [:simple-github:](https://github.com/) [:simple-linkedin:](https://linkedin.com/)<br>
-    Lorem ipsum dolor sit amet.
-  image: ./assets/images/cards/003-athena.png
+    [:custom-orcid:](https://orcid.org/0000-0001-7791-4984) [:simple-linkedin:](https://www.linkedin.com/in/nazeefafatima/)<br>
+    ELIXIR Norway
+  image: ./assets/images/cards/nazeefa_fatima.jpg
 
-- title: Poseidon
+- title: Erin Calhoun
   content: |
-    [:custom-orcid:](https://orcid.org/) [:simple-github:](https://github.com/) [:simple-linkedin:](https://linkedin.com/)<br>
-    Lorem ipsum dolor sit amet.
-  image: ./assets/images/cards/007-poseidon.png
+    [:custom-orcid:](https://orcid.org/0009-0003-3752-7156)<br>
+    ELIXIR Norway
+  image: ./assets/images/cards/erin_calhoun.jpg
