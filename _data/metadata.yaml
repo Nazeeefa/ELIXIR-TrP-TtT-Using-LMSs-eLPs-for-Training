@@ -1,21 +1,27 @@
-"@context": https://schema.org/
-"@type": LearningResource
-"@id": https://elixir-europe-training.github.io/ELIXIR-TrP-LessonTemplate-MkDocs/
+"@context": "https://schema.org/"
+"@type": "LearningResource"
+"@id": "https://elixir-europe-training.github.io/ELIXIR-TrP-TtT-Using-LMSs-eLPs-for-Training/"
+
 http://purl.org/dc/terms/conformsTo:
-  "@type": CreativeWork
-  "@id": https://bioschemas.org/profiles/TrainingMaterial/1.0-RELEASE
-description: Template for ELIXIR lessons
-keywords: FAIR, OPEN, Bioinformatics, Teaching
-name: ELIXIR Training Lesson template
-# lookup at https://spdx.org/licenses/
-license: CC-BY-4.0
+  "@type": "CreativeWork"
+  "@id": "https://bioschemas.org/profiles/TrainingMaterial/1.0-RELEASE"
+
+name: "ELIXIR-GOBLET Train-the-Trainer Module: Practical application of training skills in a digital environment"
+description: "Module of the ELIXIR-GOBLET Train-the-Trainer programme focused on practical use of e-learning platforms for training, including a use case from the ELIXIR-SI eLearning Platform (EeLP)."
+keywords: "Train-the-Trainer, ELIXIR, e-learning, LMS, e-learning platforms, training"
+license: "CC-BY-4.0"
+
 author:
-- "@type": Person
-  name: Geert van Geest
-  email: geert.vangeest@sib.swiss
-  github: GeertvanGeest
-  orcid: 0000-0002-1561-078X
-- "@type": Person
-  name: Elin Kronander
-  github: elinkronander
-  orcid: 0000-0003-0280-6318
+  - "@type": "Person"
+    name: "Brane Leskošek"
+    affiliation: "ELIXIR Slovenia"
+    github: brane007
+    orcid: 0000-0001-5202-2349
+  - "@type": "Person"
+    name: "Nazeefa Fatima"
+    affiliation: "ELIXIR Norway"
+    github: nazeeefa
+    orcid: 0000-0001-7791-4984
+  - "@type": "Person"
+    name: "Erin Calhoun"
+    affiliation: "ELIXIR Norway"
