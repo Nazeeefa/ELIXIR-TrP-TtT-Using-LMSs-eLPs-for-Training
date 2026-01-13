@@ -18,11 +18,11 @@ Greek Mythology icons made by [max.icons](https://www.flaticon.com/authors/maxic
     
     :fontawesome-solid-arrow-left: **Prerequisites**  
     To be able to follow this course, learners should have knowledge in:  
-    &emsp;1. Completion of the ELIXIR-GOBLET Train-the-Trainer (TtT) core modules or equivalent training experience. 
-    &emsp;2. Basic understanding of training design principles.
-    &emsp;3. Experience in delivering or facilitating training sessions, either in-person or online.
-    &emsp;4. Familiarity with digital learning environments (e.g. online collaboration tools and Learning Managing Systems)
-    &emsp;5. Access to and basic competence in using computational tools and resources
+    1. Completion of the ELIXIR-GOBLET Train-the-Trainer (TtT) core modules or equivalent training experience. 
+    2. Basic understanding of training design principles.
+    3. Experience in delivering or facilitating training sessions, either in-person or online.
+    4. Familiarity with digital learning environments (e.g. online collaboration tools and Learning Managing Systems)
+    5. Access to and basic competence in using computational tools and resources
     
     </br>
     
